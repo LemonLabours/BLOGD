@@ -17,4 +17,4 @@ The Blog App is a Flutter-based application that allows users to write, publish,
 
 ## Demo
 
-[Watch the Video](assets/video/Screen%20Recording%202023-08-14%20at%205.49.25%20PM.mov)
+https://github.com/LemonLabours/BLOGD/assets/101458752/69f2dafc-c3ad-4fec-968e-33122200b99f
