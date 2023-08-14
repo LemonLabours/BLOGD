@@ -13,12 +13,8 @@ The Blog App is a Flutter-based application that allows users to write, publish,
 
 ## Screenshots
 
-<img width="276" alt="1" src="assets/images/0.png">
-<img width="276" alt="2" src="assets/images/1.png">
-<img width="276" alt="3" src="assets/images/2.png">
-<img width="276" alt="4" src="assets/images/4.png">
-<img width="276" alt="5" src="assets/images/5.png">
-<img width="276" alt="5" src="assets/images/6.png">
-<img width="276" alt="5" src="assets/images/7.png">
-<img width="276" alt="5" src="assets/images/8.png">
+<img width="720" alt="1" src="assets/images/blogdBanner.png">
 
+## Demo
+
+[Watch the Video](assets/video/Screen%20Recording%202023-08-14%20at%205.49.25%20PM.mov)
